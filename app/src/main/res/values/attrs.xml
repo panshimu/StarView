@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StarView">
+        <attr name="starNormal" format="reference"/>
+        <attr name="starFocus" format="reference"/>
+        <attr name="starCount" format="integer"/>
+        <attr name="starMargin" format="dimension"/>
+    </declare-styleable>
+</resources>
